@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on automated detection of security vulnerabilities in program source code.
 - 🌱 I love designing data-intensive systems - data for insights, for artificial intelligence, for business or decision support. You name it!
-- ⚡ I research the intresection of software engineering and machine learning, especially machine learning for software security.
+- ⚡ I research the intersection of software engineering and machine learning, especially machine learning for software security.
 - 😄 Pronouns: He/Him
 
 
