@@ -1,7 +1,8 @@
 ### Hi there 👋! 
 
 - 🔭 I’m currently working on automated detection of security vulnerabilities in program source code.
-- 🌱 I love working on data-intensive systems - data for insights, for artificial intelligence, for business or decision support. You name it!
+- 🌱 I love designing data-intensive systems - data for insights, for artificial intelligence, for business or decision support. You name it!
+- ⚡ I research the intresection of software engineering and machine learning, especially machine learning for software security.
 - 😄 Pronouns: He/Him
 
 
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-- ⚡ Fun fact: ...
+
 -->
