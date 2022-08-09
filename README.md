@@ -1,7 +1,7 @@
 ### Hi there 👋! 
 
 - 🧑‍💻 I'm a Data Engineer with International Consulting Associates, Inc.
-- 🌱😄 I love designing data-intensive systems and data products - data for insights, artificial intelligence, analytics, business or decision support. You name it!
+- 🌱😄 I enjoy making data more accessible and suitable for machine learning and data analytics. I love designing data-intensive systems and data products - data for insights, artificial intelligence, analytics, business or decision support. You name it!
 - 🔭⚡ My research centers on the intersection of software engineering and machine learning, especially machine learning for software security. My current Ph.D. research is exploring machine and deep learning models for automated detection of security vulnerabilities in program source code.
 
 - 😄 Pronouns: He/Him
