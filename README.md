@@ -6,9 +6,6 @@
 - 🔭⚡ My academic research centers on the intersection of software engineering and machine learning, especially machine learning for software security. My current Ph.D. research is exploring machine and deep learning models for automated detection of security vulnerabilities in program source code.
 - :octocat: I blog occasionally [here](https://semiu.github.io/)
 
-- 😄 Pronouns: He/Him
-
-
 <!--
 **Semiu/Semiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
